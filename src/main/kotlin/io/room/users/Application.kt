@@ -1,4 +1,4 @@
-package de.dlh.lht.checkin.users
+package io.room.users
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

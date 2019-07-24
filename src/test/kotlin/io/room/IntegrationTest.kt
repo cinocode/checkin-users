@@ -1,4 +1,4 @@
-package de.dlh.lht.checkin.users
+package io.room
 
 import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.test.context.ActiveProfiles

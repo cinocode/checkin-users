@@ -1,4 +1,4 @@
-package de.dlh.lht.checkin.users
+package io.room
 
 import org.junit.jupiter.api.Test
 
