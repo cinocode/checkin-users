@@ -1,0 +1,13 @@
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+      cors:
+        allowed-methods:
+          - GET
+          - POST
+        allowed-headers: "*"
+spring:
+  application:
+    name: users
